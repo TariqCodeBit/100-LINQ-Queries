@@ -1,0 +1,12 @@
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\bin\Debug\net6.0\SharedDataRepository.deps.json
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\bin\Debug\net6.0\SharedDataRepository.dll
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\bin\Debug\net6.0\SharedDataRepository.pdb
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.AssemblyInfoInputs.cache
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.AssemblyInfo.cs
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.sourcelink.json
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.dll
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\refint\SharedDataRepository.dll
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\SharedDataRepository.pdb
+C:\Users\Tarek\Desktop\cources\Linq\projectLinq\SharedDataRepository\obj\Debug\net6.0\ref\SharedDataRepository.dll
